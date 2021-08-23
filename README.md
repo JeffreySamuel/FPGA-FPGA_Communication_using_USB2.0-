@@ -6,3 +6,5 @@ We have used Verilog HDL(Hardware Descriptive Language) to code the functionalit
 
 
 Block Diagram of SIE:
+
+![SIE block_author](https://user-images.githubusercontent.com/85092975/130498154-3d4c2aa1-3ed3-4845-9ebb-9046b1c2193f.jpg)
